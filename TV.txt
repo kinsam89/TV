@@ -5,7 +5,7 @@ TVB-热播剧,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 K I X·动作频道,https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 粤语港片,http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 中国,#genre#
-CCTV-1,http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8
 CCTV-1,http://125.210.152.18:9090/live/CCTV1HD_H265.m3u8
 CCTV-2,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
 CCTV-2,http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8
@@ -19,9 +19,9 @@ CCTV-4,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226968/
 CCTV-5,http://39.135.138.59:18890/PLTV/88888910/224/3221225751/index.m3u8
 CCTV-5,http://125.210.152.18:9090/live/CCTV5HD_H265.m3u8
 CCTV-5,http://39.135.253.57/PLTV/88888888/224/3221230058/index.m3u8
-CCTV-6,http://39.135.253.19/PLTV/88888888/224/3221230154/index.m3u8
+CCTV-6,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230685/index.m3u8
 CCTV-6,http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
-CCTV-6,http://125.210.152.18:9090/live/CCTV6HD_H265.m3u8
+
 CCTV-7,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
 CCTV-7,http://39.135.138.59:18890/PLTV/88888910/224/3221225624/index.m3u8
 CCTV-7,http://125.210.152.18:9090/live/CCTV7HD_H265.m3u8
