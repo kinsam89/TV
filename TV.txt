@@ -61,7 +61,7 @@ CCTV15,tvbus://5m88fDW6wf9NiCqtP5phjWPXR8s7DPas7ckE8ZBxuLXgdyAupwQtutgmiHr5y
 TVB 翡翠台,tvbus://6CYpcABuqf3RrsnjCwViXm3fzZxgeEvjemvxDQf1YHYEBAuJWbsQLesPnnxPt
 TVB 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 TVB 翡翠台（备),p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188#p2p://fccsovh.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058
-j2,tvbus://6VBHJgmSsrmSDg1tvDKeV2mUdN1VCbwc1rAqeeDPdvuwUwrYX6NkWrWmuwRC2
+J2,tvbus://6VBHJgmSsrmSDg1tvDKeV2mUdN1VCbwc1rAqeeDPdvuwUwrYX6NkWrWmuwRC2
 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
 J5,tvbus://5abQ59biU9JmSDaVxDMGYqY44R9xq2mpyfMRoiuGuFT7NoXLSkaME7diYrevL
 J5,p2p://fccsovh.pvbox.live:18912/5b14095400047cf5d3436751842bee62
