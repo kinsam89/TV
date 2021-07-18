@@ -71,15 +71,11 @@ Viu TV6,https://cdn.hkdtmb.com/hls/96/index.m3u8
 RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
 RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 RTHK32,https://cdn.hkdtmb.com/hls/33/index.m3u8
-
+凤凰中文台,tvbus://6VcWe6ABdTke5PBvWQ9Bg3APSDwsQCJjNwjKYtZrU2kMGWJ1dHETNPPsRCGJL
 凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#http://93.190.139.36:8278/streams/d/phoenixtv_hd/playlist.m3u8#rtmp://58.200.131.2:1935/livetv/fhzw#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-
 凤凰资讯台,tvbus://6VtmWGXBWsZdttRWaZxjXxxMo3SoTzZNp4U9vBJm8WXKUgXLJfUaPgsUR4qUL
-
 凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx#http://93.190.139.36:8278/streams/d/phoenixinfo_hd/playlist.m3u8
-
 凤凰香港台,tvbus://6BJwgLicQwMHssbeiMJNbwSPoySHTb5voME89ofJKoN8gJ9BrdoXxcRUEdXXE
-
 凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3#http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
