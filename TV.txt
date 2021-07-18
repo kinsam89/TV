@@ -61,35 +61,40 @@ CCTV15,tvbus://5m88fDW6wf9NiCqtP5phjWPXR8s7DPas7ckE8ZBxuLXgdyAupwQtutgmiHr5y
 TVB 翡翠台,tvbus://6CYpcABuqf3RrsnjCwViXm3fzZxgeEvjemvxDQf1YHYEBAuJWbsQLesPnnxPt
 TVB 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 TVB 翡翠台（备),p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188#p2p://fccsovh.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058
+j2,tvbus://6VBHJgmSsrmSDg1tvDKeV2mUdN1VCbwc1rAqeeDPdvuwUwrYX6NkWrWmuwRC2
 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
-J5,p2p://fccseuro.pvbox.live:18912/5b14095400047cf5d3436751842bee62#p2p://fccsovh.pvbox.live:18912/5b14095400047cf5d3436751842bee62
-pearl,p2p://fccseuro.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4#p2p://fccsovh.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4
-TVB·明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
+J5,tvbus://5abQ59biU9JmSDaVxDMGYqY44R9xq2mpyfMRoiuGuFT7NoXLSkaME7diYrevL
+J5,p2p://fccsovh.pvbox.live:18912/5b14095400047cf5d3436751842bee62
+pearl,tvbus://61V85DyYVcVZFMY2P5NRc8QM5wvHw6ZfvTDUqhL23AN33vNfKH3X9j4DKoU7r
+pearl,p2p://fccseuro.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4
 Viu TV,https://cdn.hkdtmb.com/hls/99/index.m3u8
 Viu TV,http://61.238.6.49:8000/bysid/96
 Viu TV6,https://cdn.hkdtmb.com/hls/96/index.m3u8
+RTHK31,p2p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
+RTHK32,tvbus://5KqYBRifjas1kDjSTncngGo4vxnyKkwJnnsHWk6aGwMb8k1SM6EFpRDsGfR7U
 RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
-RTHK32,https://cdn.hkdtmb.com/hls/33/index.m3u8
-凤凰中文台,tvbus://6VcWe6ABdTke5PBvWQ9Bg3APSDwsQCJjNwjKYtZrU2kMGWJ1dHETNPPsRCGJL
-凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#http://93.190.139.36:8278/streams/d/phoenixtv_hd/playlist.m3u8#rtmp://58.200.131.2:1935/livetv/fhzw#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-凤凰资讯台,tvbus://6VtmWGXBWsZdttRWaZxjXxxMo3SoTzZNp4U9vBJm8WXKUgXLJfUaPgsUR4qUL
-凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx#http://93.190.139.36:8278/streams/d/phoenixinfo_hd/playlist.m3u8
-凤凰香港台,tvbus://6BJwgLicQwMHssbeiMJNbwSPoySHTb5voME89ofJKoN8gJ9BrdoXxcRUEdXXE
-凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3#http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
-凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv
-星空体育,rtmp://58.200.131.2:1935/livetv/starsports
-莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 
+凤凰中文台,tvbus://6VcWe6ABdTke5PBvWQ9Bg3APSDwsQCJjNwjKYtZrU2kMGWJ1dHETNPPsRCGJL
+凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2
+凤凰资讯台,tvbus://6VtmWGXBWsZdttRWaZxjXxxMo3SoTzZNp4U9vBJm8WXKUgXLJfUaPgsUR4qUL
+凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1
+凤凰香港台,tvbus://6BJwgLicQwMHssbeiMJNbwSPoySHTb5voME89ofJKoN8gJ9BrdoXxcRUEdXXE
+凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3
+凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
+香港卫视,tvbus://5rBYFYX33K8FhWNxBWVVFLTm5Q45zYBSaDcELLCQSmsQWksC6NtNsqTkzJPCS
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+有線新聞,tvbus://5KXsErRUrgRpRJU4sXpNhdZ3K7EX7Zfd1wcaytmrsTknUQ1Dn4MDHEPYmauQo
+有線18台,tvbus://5i3Bvmk3f1gLcJee7BoPVyvNdMkkybMWXkvpNYWjiCG6en5r85mZzd77FM8mE
+有線財經,tvbus://63fvA6r71HaVvqPntBHZTgkkC3QsCGaNu2YJgcDPQ7rtxTwQzys6ucgQRo4fV
+有線娛樂,tvbus://6HBjDrhcqo2RGExPNhuQfyD5rkfK3J42wyE15qS7yn116KoJ9y93svdXDPVhK
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+星空体育,rtmp://58.200.131.2:1935/livetv/starsports
+莲花卫视,tvbus://5VfJjmt3n4dTw16nE3SRrVE2HN32CR5J1RrMax2FPEvAB1v5upgJvpEMVFvau
 国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
-澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
-澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
 阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
-澳亚卫视,https://live.mastvnet.com/4rlff1m/1024/live.m3u8
 卫视音乐,rtmp://58.200.131.2:1935/livetv/channelv
 
 台湾,#genre#
