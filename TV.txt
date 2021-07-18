@@ -94,7 +94,6 @@ RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
 澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
-阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 卫视音乐,rtmp://58.200.131.2:1935/livetv/channelv
 
 台湾,#genre#
