@@ -95,7 +95,10 @@ RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 星空体育,rtmp://58.200.131.2:1935/livetv/starsports
 莲花卫视,tvbus://5VfJjmt3n4dTw16nE3SRrVE2HN32CR5J1RrMax2FPEvAB1v5upgJvpEMVFvau
+
+国家地理,tvbus://6K4Hz43ew43P2xcNrqmZjjhprcWn8eH8U6HMzjk1TBagpd5Xg7jvCbjimN58W
 国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
+探索频道,tvbus://5hRnim3vdD4FMR6B2WZck8mQ2dcupLronp9ks2CRDHAz7ehuUqff38zD66W9F
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
 澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
 卫视音乐,rtmp://58.200.131.2:1935/livetv/channelv
