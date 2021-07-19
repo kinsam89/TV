@@ -1,7 +1,9 @@
 影视专区,#genre#
 香港C+蓝光,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-TVB-經典剧,p2p://fccseuro.pvbox.live:18912/5fbb5a9f00079d3b9fc240962c3b63be
-TVB-經典剧,p2p://fccsovh.pvbox.live:18912/5fbb5a9f00079d3b9fc240962c3b63be
+
+TVB-经典剧,tvbus://6R9gMZRtc4q7cXDSAunNjupchquEeGcHaGtTVZLpjF3hiohqzQ2VBpyk64wNK
+TVB-经典剧,p2p://fccseuro.pvbox.live:18912/5fbb5a9f00079d3b9fc240962c3b63be
+TVB-经典剧,p2p://fccsovh.pvbox.live:18912/5fbb5a9f00079d3b9fc240962c3b63be
 TVB怀旧剧,tvbus://5rYDDrFr8zHam7aFnp1Dz97B634q5QbLqhrVNCT2p4C56gBsaemHs8eWmRkqJ
 TVB怀旧剧,p2p://fccseuro.pvbox.live:18912/5d65048c0003e9aecc353f52270c8bbe#p2p://fccsovh.pvbox.live:18912/5d65048c0003e9aecc353f52270c8bbe
 TVB怀旧剧,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
@@ -71,6 +73,8 @@ pearl,p2p://fccseuro.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4
 Viu TV,tvbus://5TRJtBkaYNHuAjqkYALafieT8hqjSGZUxhMh2VMRATqokeyTxKVDrrSWjLQiR
 Viu TV,https://cdn.hkdtmb.com/hls/99/index.m3u8
 Viu TV,http://61.238.6.49:8000/bysid/96
+
+Viu TV6,tvbus://5ioPJnprQrkZFHrGKcQfmb6AwVUTGTbQTvDvD4MqVhx8FuGvVtwsvDCDdkTyZ
 Viu TV6,https://cdn.hkdtmb.com/hls/96/index.m3u8
 
 RTHK31,tvbus://6LG8XinCKR8W9K7rNRrPbzCJfuYubAqzE8nrGJsijA219EobCWdoNdo3mgJh7
@@ -92,6 +96,8 @@ RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 有線18台,tvbus://5i3Bvmk3f1gLcJee7BoPVyvNdMkkybMWXkvpNYWjiCG6en5r85mZzd77FM8mE
 有線財經,tvbus://63fvA6r71HaVvqPntBHZTgkkC3QsCGaNu2YJgcDPQ7rtxTwQzys6ucgQRo4fV
 有線娛樂,tvbus://6HBjDrhcqo2RGExPNhuQfyD5rkfK3J42wyE15qS7yn116KoJ9y93svdXDPVhK
+
+星空卫视,tvbus://6Mis62zjjXhAFMV4jTpT8449d9eAuxtox4UDWXqSeWFQC1GgfNuE5GyZjFupc
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 星空体育,rtmp://58.200.131.2:1935/livetv/starsports
 莲花卫视,tvbus://5VfJjmt3n4dTw16nE3SRrVE2HN32CR5J1RrMax2FPEvAB1v5upgJvpEMVFvau
