@@ -89,6 +89,8 @@ RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1
 凤凰香港台,tvbus://6BJwgLicQwMHssbeiMJNbwSPoySHTb5voME89ofJKoN8gJ9BrdoXxcRUEdXXE
 凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3
+
+凤凰电影台,tvbus://6MGQVckYd66tyyBeCyaM9Bu4hcjQA8tZggo2ky9zahSQSrwfAwC6FiXQhQwRN
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
 香港卫视,tvbus://5rBYFYX33K8FhWNxBWVVFLTm5Q45zYBSaDcELLCQSmsQWksC6NtNsqTkzJPCS
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -99,6 +101,8 @@ RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 
 星空卫视,tvbus://6Mis62zjjXhAFMV4jTpT8449d9eAuxtox4UDWXqSeWFQC1GgfNuE5GyZjFupc
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+
+星空体育,tvbus://66h1iu7keRoKN1afa7wiSyPxz6DNNRXgaruXo1pjKvbBf9j5zkJcx9s8ocCQJ
 星空体育,rtmp://58.200.131.2:1935/livetv/starsports
 莲花卫视,tvbus://5VfJjmt3n4dTw16nE3SRrVE2HN32CR5J1RrMax2FPEvAB1v5upgJvpEMVFvau
 
@@ -107,6 +111,7 @@ RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 探索频道,tvbus://5hRnim3vdD4FMR6B2WZck8mQ2dcupLronp9ks2CRDHAz7ehuUqff38zD66W9F
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
 澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
+卫视音乐,tvbus://6KkQcWWPHAd5MuTaseQeai1b1o8Zx3zwS7LtXzERkChRirKYMUkjgRdeYS4Xs
 卫视音乐,rtmp://58.200.131.2:1935/livetv/channelv
 
 台湾,#genre#
