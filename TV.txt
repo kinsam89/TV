@@ -182,6 +182,7 @@ WOW!TV,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u
 日本 Ⅰ 宝石GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
 私密_138,#genre#
 
+松视 ﻿1台,p2p://fccseuro.pvbox.live:18912/5c7249be000b8793baaac296ccc9199a
 松视 2台,p2p://fccseuro.pvbox.live:18912/5c7249c2000e510ff069277e6de97521
 
 惊艳台,p2p://fccseuro.pvbox.live:18912/5c7249cf00095b61a6551090eece092b
