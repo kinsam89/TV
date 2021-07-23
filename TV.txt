@@ -20,14 +20,18 @@ TVB-热播剧,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 K I X·动作频道,https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
 中国,#genre#
+CCTV1,http://cm.wshls.homecdn.com/live/4387.m3u8
 CCTV1,tvbus://69Mb4nuPDqZ22UV9cSgDHee47LgNh4ZuyxJB3uKzpYx6sx3nbxarNwNGFWeZ7
 CCTV1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8
 
+CCTV2,http://cm.wshls.homecdn.com/live/4387.m3u8
 CCTV2,tvbus://6TgMRPM93iM23VTMwx8oQV3G6BrMPtyMj68LZz4VsX2FeDzgDJ6TwDXiPJnUr
 CCTV2,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
 
+CCTV3,http://cm.wshls.homecdn.com/live/11ef4.m3u8
 CCTV3,tvbus://6UNvStCaUueHCHHdrNDWNNhnsyrc7kABPXmmUwj7YJoLCJTXtEFEXnWrnXy6W
 
+CCTV4,http://cm,wshls.homecdn.com/live/11ef0.m3u8
 CCTV4,tvbus://5rKFikUxb3yd6w5m7bqaeeF3f8KXCTjJtndvVUnPbuk3gCpT6CqYpiibRd2kj
 CCTV4,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226968/index.m3u8
 
@@ -37,15 +41,19 @@ CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225751/index.m3u8
 CCTV5+,tvbus://6e3xGT9UVD6oDSZgDxpf4S7CFQB1psto8QaThj8cnnUjV9c7DQV4EVi4muKFQ
 CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225751/index.m3u8
 
+CCTV6,http://cm.wshls.homecdn.com/live/11ee8.m3u8
 CCTV6,tvbus://69ntY4w2kzTABiqTh7TaJMoZjmWC1UxdjTfJdithkYkvLAoE5ELfofxR4JHKk
+
 CCTV7,tvbus://5R9NXxWHR5dKpnGGQnv7tBEjwZcJgN4EjKTKuMgytvf36mR98mVGvgFyZPRHL
 CCTV7,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
 
+CCTV8,http://cm,wshls.homecdn.com/live/11ee0.m3u8
 CCTV8,tvbus://6Ti39MxCExN1V2w77vratZ6csmU7Kxqm9LwhmtHEZqQJdRDpVRaaL1K4d49eS
 
 CCTV9,tvbus://63oRKWpzcLjkLhRTZiFjzoFQaW2R36fCYNuhcFwTJ6WMTxquXaSv25D2M22Go
 CCTV9,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
 
+CCTV10,http://cm.wshls.homecdn.com/live/11ed8.m3u8
 CCTV10,tvbus://6g8h6zTB389w1bmbzWpwSJpRCwoBg9SYq99Hj9XBvFxe55nKZ7LHLFfiKgY9k
 CCTV10,http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8
 
@@ -55,11 +63,14 @@ CCTV11,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/
 CCTV12,tvbus://6MJGJLAzLXDGXnkAU5yngpjRmJHQ4K9S8hKvYard4c9JhJZtn6AyMajBMJ6xz
 CCTV12,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
 
-CCTV14,tvbus://5bNtLaveQSTBQ3RzrKu1qysrXzBraGHigGfjf8GYrTKr6DrgsFodrWovYp5zt
+CCTV13,http://wshls.homecdn.com/live/4e2f.m3u8
+CCTV13,tvbus://5bNtLaveQSTBQ3RzrKu1qysrXzBraGHigGfjf8GYrTKr6DrgsFodrWovYp5zt
+
 CCTV15,tvbus://5m88fDW6wf9NiCqtP5phjWPXR8s7DPas7ckE8ZBxuLXgdyAupwQtutgmiHr5y
 湖南卫视,tvbus://6EmC2dswb7FjfmZLis6CDU3hfFgyKmnXXAk6BZgZr6dRzprbYvmPETL2YYu1g
 湖南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226935/index.m3u8
 
+江苏卫视,http://cm.wshls.homecdn.com/live/1bd81.m3u8
 江苏卫视,tvbus://6R2tcrJ3aoyp9LS4sBLeULSXLwHzRhHHCxqZvNJJuVUMaFpMqP8ZnVNJuAQ3b
 江苏卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226869/index.m3u8
 
@@ -93,6 +104,7 @@ CCTV15,tvbus://5m88fDW6wf9NiCqtP5phjWPXR8s7DPas7ckE8ZBxuLXgdyAupwQtutgmiHr5y
 
 南方卫视,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226540/1.m3u8
 
+北京卫视,http://cm.wshls.homecdn.com/live/1bd71.m3u8
 北京卫视,tvbus://6UK3rRhdM8ZpLtL88gkkdcmAV7pcLFqv9PUUs6rFTwc5NmLRgvw6eGNNwJj9e
 北京卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225826/index.m3u8
 
@@ -101,6 +113,7 @@ CCTV15,tvbus://5m88fDW6wf9NiCqtP5phjWPXR8s7DPas7ckE8ZBxuLXgdyAupwQtutgmiHr5y
 
 吉林卫视,tvbus://5j7WqVUpzEzRr2xCJNeAtBWvep2817SfLomzf5kBo4AoGLk6EYXj6jvMZ1shc
 
+山东卫视,http://cm.wshls.homecdn.com/live/1bd5d.m3u
 山东卫视,tvbus://6GVP5izQw8epQzVGc7sUZq1JvSFvPA3vdoj76etdpd1jigyZtTaVXhtztCTEo
 山东卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225843/index.m3u8
 
@@ -109,16 +122,18 @@ CCTV15,tvbus://5m88fDW6wf9NiCqtP5phjWPXR8s7DPas7ckE8ZBxuLXgdyAupwQtutgmiHr5y
 
 五星體育,tvbus://5TwV6BLiNSX6mcg6NqEAppwVB9suDY2zSNKrhoATHwQ9fLUMYjmDyVP8nmStX
 珠江,tvbus://6gfNE9gwsxxJa44rbU7TgXZTqnkKgpjpKSDc1cyd2r7EdxQEJZRjwqmyWFV7Q
+
+广东卫视,http://cm.wshls.homecdn.com/live/1bd69.m3u8
 广东卫视,tvbus://5ut2xsV199jytu4CKJSdGa1HmjWXawbPxbE3kNJ8ptsJhApAy4ouUGWh3VWDw
 
 港澳,#genre#
 华丽台,tvbus://6gsunidCw9zw1XxAhtwAGEXRyfKxSVspS6yBTMGszT9gAHdi3sitETJwNobCF
 
-无线新闻台,https://cdn.hkdtmb.com/hls/83/index.m3u8
-无线新闻台,p2p://fccsovh.pvbox.live:18912/5ee71d1c0004c66962b2bbef39b16ddb#p2p://fccseuro.pvbox.live:18912/5ee71d1c0004c66962b2bbef39b16ddb
 无线新闻台,tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
 
-TVB 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
+无线新闻台,p2p://fccsovh.pvbox.live:18912/5ee71d1c0004c66962b2bbef39b16ddb#p2p://fccseuro.pvbox.live:18912/5ee71d1c0004c66962b2bbef39b16ddb
+
+
 TVB 翡翠台,p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188#p2p://fccsovh.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058
 TVB 翡翠台,tvbus://6CYpcABuqf3RrsnjCwViXm3fzZxgeEvjemvxDQf1YHYEBAuJWbsQLesPnnxPt
 
