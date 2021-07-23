@@ -23,14 +23,14 @@ CCTV1,http://cm.wshls.homecdn.com/live/4387.m3u8
 CCTV1,tvbus://69Mb4nuPDqZ22UV9cSgDHee47LgNh4ZuyxJB3uKzpYx6sx3nbxarNwNGFWeZ7
 CCTV1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8
 
-CCTV2,http://cm.wshls.homecdn.com/live/4387.m3u8
+CCTV2,http://cm.wshls.homecdn.com/live/11ecc.m3u8
 CCTV2,tvbus://6TgMRPM93iM23VTMwx8oQV3G6BrMPtyMj68LZz4VsX2FeDzgDJ6TwDXiPJnUr
 CCTV2,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
 
 CCTV3,http://cm.wshls.homecdn.com/live/11ef4.m3u8
 CCTV3,tvbus://6UNvStCaUueHCHHdrNDWNNhnsyrc7kABPXmmUwj7YJoLCJTXtEFEXnWrnXy6W
 
-CCTV4,http://cm,wshls.homecdn.com/live/11ef0.m3u8
+CCTV4,http://cm.wshls.homecdn.com/live/11ef0.m3u8
 CCTV4,tvbus://5rKFikUxb3yd6w5m7bqaeeF3f8KXCTjJtndvVUnPbuk3gCpT6CqYpiibRd2kj
 CCTV4,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226968/index.m3u8
 
@@ -46,7 +46,7 @@ CCTV6,tvbus://69ntY4w2kzTABiqTh7TaJMoZjmWC1UxdjTfJdithkYkvLAoE5ELfofxR4JHKk
 CCTV7,tvbus://5R9NXxWHR5dKpnGGQnv7tBEjwZcJgN4EjKTKuMgytvf36mR98mVGvgFyZPRHL
 CCTV7,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
 
-CCTV8,http://cm,wshls.homecdn.com/live/11ee0.m3u8
+CCTV8,http://cm.wshls.homecdn.com/live/11ee0.m3u8
 CCTV8,tvbus://6Ti39MxCExN1V2w77vratZ6csmU7Kxqm9LwhmtHEZqQJdRDpVRaaL1K4d49eS
 
 CCTV9,tvbus://63oRKWpzcLjkLhRTZiFjzoFQaW2R36fCYNuhcFwTJ6WMTxquXaSv25D2M22Go
@@ -194,8 +194,10 @@ RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 探索频道,tvbus://5hRnim3vdD4FMR6B2WZck8mQ2dcupLronp9ks2CRDHAz7ehuUqff38zD66W9F
 
 澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
-卫视音乐,rtmp://58.200.131.2:1935/livetv/channelv卫视音乐,tvbus://6KkQcWWPHAd5MuTaseQeai1b1o8Zx3zwS7LtXzERkChRirKYMUkjgRdeYS4Xs
+
 卫视音乐,rtmp://58.200.131.2:1935/livetv/channelv
+卫视音乐,tvbus://6KkQcWWPHAd5MuTaseQeai1b1o8Zx3zwS7LtXzERkChRirKYMUkjgRdeYS4Xs
+
 
 台湾,#genre#
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
