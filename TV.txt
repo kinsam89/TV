@@ -31,15 +31,17 @@ CCTV2,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/i
 CCTV3,http://cm.wshls.homecdn.com/live/11ef4.m3u8
 CCTV3,tvbus://6UNvStCaUueHCHHdrNDWNNhnsyrc7kABPXmmUwj7YJoLCJTXtEFEXnWrnXy6W
 
-CCTV4,http://cm.wshls.homecdn.com/live/11ef0.m3u8
-CCTV4,p2p://fccsovh.pvbox.live:18912/5b14092c0006a1f725e20d99c41d5263#p2p://fccsovh.pvbox.live:18912/5b14092c0006a1f725e20d99c41d5263#http://liveplay-kk.rtxapp.com/live/program/live/cctv4/1300000/mnf.m3u8#p2p://fccseuro.pvbox.live:18912/5b14092c0006a1f725e20d99c41d5263
+CCTV4,http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+CCTV4,p2p://fccsovh.pvbox.live:18912/5b14092c0006a1f725e20d99c41d5263
 CCTV4,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226968/index.m3u8
 CCTV4,tvbus://5rKFikUxb3yd6w5m7bqaeeF3f8KXCTjJtndvVUnPbuk3gCpT6CqYpiibRd2kj
 
+CCTV5,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5,mitv://fccseuro.pvbox.live:18912/5b1409f20001a05db27ac7fd1bf34467.ts#http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8,http://121.31.30.87:8085/ysten-business/live/cctv-5/1.m3u8,mitv://fccsovh.pvbox.live:18912/5b1409f20001a05db27ac7fd1bf34467.ts
 CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225751/index.m3u8
 CCTV5,tvbus://6Xk7Gt5YodDFUV37xbuJux5VD4nJHuNGzCXBUoKP5Z9UVVCxc9GGZk3jkpXrv
 
+CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5+,mitv://fccsovh.pvbox.live:18912/5b1409f200034b730f7fdb4819ffdd6c.ts#http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8,http://107.148.240.185:13164/v/cctv.php?id=2000204502.m3u8,mitv://fccseuro.pvbox.live:18912/5b1409f200034b730f7fdb4819ffdd6c.ts
 CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225751/index.m3u8
 CCTV5+,tvbus://6e3xGT9UVD6oDSZgDxpf4S7CFQB1psto8QaThj8cnnUjV9c7DQV4EVi4muKFQ
@@ -47,6 +49,7 @@ CCTV5+,tvbus://6e3xGT9UVD6oDSZgDxpf4S7CFQB1psto8QaThj8cnnUjV9c7DQV4EVi4muKFQ
 CCTV6,http://cm.wshls.homecdn.com/live/11ee8.m3u8
 CCTV6,tvbus://69ntY4w2kzTABiqTh7TaJMoZjmWC1UxdjTfJdithkYkvLAoE5ELfofxR4JHKk
 
+CCTV7,http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
 CCTV7,mitv://fccsovh.pvbox.live:18912/5b1409fa000e431b13d3184e0a673418.ts#http://107.148.240.185:13164/v/cctv.php?id=2000510002.m3u8,mitv://fccseuro.pvbox.live:18912/5b1409fa000e431b13d3184e0a673418.ts
 CCTV7,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
 CCTV7,tvbus://5R9NXxWHR5dKpnGGQnv7tBEjwZcJgN4EjKTKuMgytvf36mR98mVGvgFyZPRHL
@@ -54,6 +57,7 @@ CCTV7,tvbus://5R9NXxWHR5dKpnGGQnv7tBEjwZcJgN4EjKTKuMgytvf36mR98mVGvgFyZPRHL
 CCTV8,http://cm.wshls.homecdn.com/live/11ee0.m3u8
 CCTV8,tvbus://6Ti39MxCExN1V2w77vratZ6csmU7Kxqm9LwhmtHEZqQJdRDpVRaaL1K4d49eS
 
+CCTV9,http://39.135.138.58:18890/PLTV/88888910/224/3221225626/index.m3u8
 CCTV9,mitv://fccsovh.pvbox.live:18912/5b140954000be15420c43b0f1250f037.ts#http://107.148.240.185:13164/v/cctv.php?id=2000499402.m3u8,http://ivi.bupt.edu.cn/hls/cctv9.m3u8,mitv://fccseuro.pvbox.live:18912/5b140954000be15420c43b0f1250f037.ts
 CCTV9,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
 CCTV9,tvbus://63oRKWpzcLjkLhRTZiFjzoFQaW2R36fCYNuhcFwTJ6WMTxquXaSv25D2M22Go
@@ -62,18 +66,18 @@ CCTV10,http://cm.wshls.homecdn.com/live/11ed8.m3u8
 CCTV10,tvbus://6g8h6zTB389w1bmbzWpwSJpRCwoBg9SYq99Hj9XBvFxe55nKZ7LHLFfiKgY9k
 CCTV10,http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8
 
-
-CCTV-11 戲曲 ,mitv://fccsovh.pvbox.live:18912/5b1409fb00030ef9989926fcd9821783.ts#http://107.148.240.185:13164/v/cctv.php?id=2000204102.m3u8,http://107.148.240.185:13164/v/cctv.php?id=2000204102.m3u8,mitv://fccseuro.pvbox.live:18912/5b1409fb00030ef9989926fcd9821783.ts
-CCTV-12 社會與法 ,mitv://fccsovh.pvbox.live:18912/5b1409490000e8f899bd6f146ace3965.ts#http://107.148.240.185:13164/v/cctv.php?id=2000202602.m3u8,http://107.148.240.185:13164/v/cctv.php?id=2000202602.m3u8,mitv://fccseuro.pvbox.live:18912/5b1409490000e8f899bd6f146ace3965.ts
-
-CCTV11,tvbus://6YgHXBRMaCBgbJAwrjhsrzsrQqWKHNeZ98t6mgjanQ32qxBfTCTjEjteAVvfe
+CCTV11,http://39.135.138.58:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV11,mitv://fccsovh.pvbox.live:18912/5b1409fb00030ef9989926fcd9821783.ts#http://107.148.240.185:13164/v/cctv.php?id=2000204102.m3u8,http://107.148.240.185:13164/v/cctv.php?id=2000204102.m3u8,mitv://fccseuro.pvbox.live:18912/5b1409fb00030ef9989926fcd9821783.ts
 CCTV11,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
+CCTV11,tvbus://6YgHXBRMaCBgbJAwrjhsrzsrQqWKHNeZ98t6mgjanQ32qxBfTCTjEjteAVvfe
 
-CCTV12,mitv://fccsovh.pvbox.live:18912/5b1409490000e8f899bd6f146ace3965.ts#http://107.148.240.185:13164/v/cctv.php?id=2000202602.m3u8,http://107.148.240.185:13164/v/cctv.php?id=2000202602.m3u8,mitv://fccseuro.pvbox.live:18912/5b1409490000e8f899bd6f146ace3965.ts
+CCTV12,http://39.135.138.60:18890/PLTV/88888910/224/3221225629/index.m3u8
 CCTV12,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
+CCTV12,mitv://fccsovh.pvbox.live:18912/5b1409490000e8f899bd6f146ace3965.ts#http://107.148.240.185:13164/v/cctv.php?id=2000202602.m3u8,http://107.148.240.185:13164/v/cctv.php?id=2000202602.m3u8,mitv://fccseuro.pvbox.live:18912/5b1409490000e8f899bd6f146ace3965.ts
 CCTV12,tvbus://6MJGJLAzLXDGXnkAU5yngpjRmJHQ4K9S8hKvYard4c9JhJZtn6AyMajBMJ6xz
 
 CCTV13,http://cm.wshls.homecdn.com/live/4e2f.m3u8
+CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,mitv://fccsovh.pvbox.live:18912/5b140953000402ea4f54f3de6ec99058.ts#http://107.148.240.185:13164/v/cctv.php?id=2000204602.m3u8,http://107.148.240.185:13164/v/cctv.php?id=2000204602.m3u8,mitv://fccseuro.pvbox.live:18912/5b140953000402ea4f54f3de6ec99058.ts
 CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 CCTV13,tvbus://5bNtLaveQSTBQ3RzrKu1qysrXzBraGHigGfjf8GYrTKr6DrgsFodrWovYp5zt
@@ -81,23 +85,26 @@ CCTV13,tvbus://5bNtLaveQSTBQ3RzrKu1qysrXzBraGHigGfjf8GYrTKr6DrgsFodrWovYp5zt
 CCTV15,mitv://fccsovh.pvbox.live:18912/5b140948000941c39a06855e40ef8a39.ts#http://107.148.240.185:13164/v/cctv.php?id=2000205002.m3u8,mitv://fccseuro.pvbox.live:18912/5b140948000941c39a06855e40ef8a39.ts
 CCTV15,tvbus://5m88fDW6wf9NiCqtP5phjWPXR8s7DPas7ckE8ZBxuLXgdyAupwQtutgmiHr5y
 
+湖南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225827/index.m3u8
+湖南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226935/index.m3u8
 湖南卫视,mitv://fccsovh.pvbox.live:18912/5b1409f200084cfcd27d9d8749f9f963.ts#http://ivi.bupt.edu.cn/hls/hunanhd.m3u8,mitv://fccsovh.pvbox.live:18912/5b1409f200084cfcd27d9d8749f9f963.ts#mitv://fccseuro.pvbox.live:18912/5b1409f200084cfcd27d9d8749f9f963.ts
 湖南卫视,tvbus://6EmC2dswb7FjfmZLis6CDU3hfFgyKmnXXAk6BZgZr6dRzprbYvmPETL2YYu1g
-湖南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226935/index.m3u8
+
 
 江苏卫视,http://cm.wshls.homecdn.com/live/1bd81.m3u8
-江苏卫视,tvbus://6R2tcrJ3aoyp9LS4sBLeULSXLwHzRhHHCxqZvNJJuVUMaFpMqP8ZnVNJuAQ3b
 江苏卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226869/index.m3u8
+江苏卫视,tvbus://6R2tcrJ3aoyp9LS4sBLeULSXLwHzRhHHCxqZvNJJuVUMaFpMqP8ZnVNJuAQ3b
 
 
+浙江卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225825/index.m3u8
 浙江卫视 HD,mitv://fccsovh.pvbox.live:18912/5b1409db000dc9c110adac584a50c206.ts#http://ivi.bupt.edu.cn/hls/zjtv.m3u8,mitv://fccsovh.pvbox.live:18912/5b1409db000dc9c110adac584a50c206.ts#mitv://fccseuro.pvbox.live:18912/5b1409db000dc9c110adac584a50c206.ts
 浙江卫視,tvbus://6E5mWxq1v5t4Nfp2z7meZCppJG6nheBUyBMqZtNdz7Xjb7yqKQfGWYfSqjqPM
-浙江卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225825/index.m3u8
+
 
 湖北卫视,http://cm.wshls.homecdn.com
 湖北卫视,mitv://fccsovh.pvbox.live:18912/5b13f6f000021ab0f14520ff553fcd95.ts#http://ivi.bupt.edu.cn/hls/hbhd.m3u8,mitv://fccsovh.pvbox.live:18912/5b13f6f000021ab0f14520ff553fcd95.ts#mitv://fccseuro.pvbox.live:18912/5b13f6f000021ab0f14520ff553fcd95.ts
 
-
+贵州卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227060/index.m3u8
 贵州卫视,tvbus://6bKwrPnkx94KktksWY7FPRh6neAxdFuWm8RLfgoi1S1oxDSFUnArhiBCGQR4r
 贵州卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227060/index.m3u8
 
@@ -106,6 +113,7 @@ CCTV15,tvbus://5m88fDW6wf9NiCqtP5phjWPXR8s7DPas7ckE8ZBxuLXgdyAupwQtutgmiHr5y
 
 河北卫视,mitv://fccsovh.pvbox.live:18912/5b13f6f00007d3a75637fb4bcf57fa05.ts#http://ivi.bupt.edu.cn/hls/hebhd.m3u8,mitv://fccsovh.pvbox.live:18912/5b13f6f00007d3a75637fb4bcf57fa05.ts#mitv://fccseuro.pvbox.live:18912/5b13f6f00007d3a75637fb4bcf57fa05.ts
 
+辽宁卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226881/index.m3u8
 辽宁卫视,http://cctvalih5ca.v.myalicdn.com/wstv/ningxia_2/index.m3u8,http://ivi.bupt.edu.cn/hls/nxtv.m3u8,mitv://fccsovh.pvbox.live:18912/5b13f6f000043ff7c0e1d9b89412ab54.ts#http://cctvalih5ca.v.myalicdn.com/wstv/ningxia_2/index.m3u8,mitv://fccsovh.pvbox.live:18912/5ee9cbb30001c6576d2cb8fc0d8b665d.ts#mitv://fccseuro.pvbox.live:18912/5ee9cbb30001c6576d2cb8fc0d8b665d.ts
 辽宁卫视,tvbus://6SmVGGeiD1yK1TaC1RoA66VLtBwMmQgrtdA36W9m9Zfss2aHUgmz4CdFT8ZGJ
 辽宁卫视,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8
