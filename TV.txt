@@ -265,6 +265,7 @@ RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 有线娱乐,http://live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4.m3u8
 有线财经,http://live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
 日韩,#genre#
 KBS 1,p2p://fccsovh.pvbox.live:18912/5f9f825f0002c29832fd9e8341f66f9c#p2p://fccseuro.pvbox.live:18912/5f9f825f0002c29832fd9e8341f66f9c
 KBS 2,p2p://fccsovh.pvbox.live:18912/5f9f825f000e347f32fda17138ad09d4#p2p://fccseuro.pvbox.live:18912/5f9f825f000e347f32fda17138ad09d4
