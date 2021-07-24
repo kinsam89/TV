@@ -1,3 +1,4 @@
+    
 影视专区,#genre#
 香港C+蓝光,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 
@@ -12,10 +13,15 @@ TVB怀旧剧,tvbus://5rYDDrFr8zHam7aFnp1Dz97B634q5QbLqhrVNCT2p4C56gBsaemHs8eWmRk
 TVB-热播剧,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 TVB-热播剧,tvbus://62NNnEntcG5Uev4mzo8NPmozm3g5Lpa6vVrfq7CbNyKQfSLgsy54PQaS6sgyY
 
+粤语电影（一),p2p://fccseuro.pvbox.live:18912/5d650488000e67a1df9eba9288b40109#p2p://fccsovh.pvbox.live:18912/5d650488000e67a1df9eba9288b40109
+粤语电影（一),http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 粤语电影（一),tvbus://5XASRw3ac7CzLwLsAMqbESqBHmdXNWixfXTVw7BTiEs14NfUKD5metCuQNXZm
-粤语电影（二),http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
+粤语电影（二),p2p://fccsovh.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160#p2p://fccseuro.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160
 粤语电影（二),tvbus://5gWRwQczZURAdQBNVt6KhaJZWfWYrQ4PzKM3VymWpSEBm9wVsnVHUsHT2d88o
-粤语电影 （三),tvbus://6HHVQLYnbh2Bw8tfG3Nt97roei6GDcJgnXczuxZ4iGwmJcbh9EzGJgWviK6AW
+
+粤语电影（三),p2p://fccseuro.pvbox.live:18912/5b140a16000257643131fe220522a056#p2p://fccsovh.pvbox.live:18912/5b140a16000257643131fe220522a056
+粤语电影（三),tvbus://6HHVQLYnbh2Bw8tfG3Nt97roei6GDcJgnXczuxZ4iGwmJcbh9EzGJgWviK6AW
 K I X·动作频道,p2p://fccseuro.pvbox.live:18912/5d65047e00051ab5970166de4f65e1b1#p2p://fccsovh.pvbox.live:18912/5d65047e00051ab5970166de4f65e1b1
 K I X·动作频道,https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
@@ -171,7 +177,7 @@ CCTV15,tvbus://5m88fDW6wf9NiCqtP5phjWPXR8s7DPas7ckE8ZBxuLXgdyAupwQtutgmiHr5y
 TVB 翡翠台,p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188#p2p://fccsovh.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058
 TVB 翡翠台,tvbus://6CYpcABuqf3RrsnjCwViXm3fzZxgeEvjemvxDQf1YHYEBAuJWbsQLesPnnxPt
 
-J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
+J2,p2p://fccsovh.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b#p2p://fccseuro.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b
 J2,tvbus://6VBHJgmSsrmSDg1tvDKeV2mUdN1VCbwc1rAqeeDPdvuwUwrYX6NkWrWmuwRC2
 
 J5,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
@@ -182,26 +188,31 @@ J5,tvbus://5abQ59biU9JmSDaVxDMGYqY44R9xq2mpyfMRoiuGuFT7NoXLSkaME7diYrevL
 pearl,p2p://fccseuro.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4
 pearl,tvbus://61V85DyYVcVZFMY2P5NRc8QM5wvHw6ZfvTDUqhL23AN33vNfKH3X9j4DKoU7r
 
+Viu TV,p2p://fccseuro.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800#p2p://fccsovh.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800
 Viu TV,http://198.16.106.62:8278/streams/d/viu1_twn/playlist.m3u8
 Viu TV,http://61.238.6.49:8000/bysid/96
 Viu TV,tvbus://5TRJtBkaYNHuAjqkYALafieT8hqjSGZUxhMh2VMRATqokeyTxKVDrrSWjLQiR
 
+RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
 RTHK31,p2p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 RTHK31,tvbus://6LG8XinCKR8W9K7rNRrPbzCJfuYubAqzE8nrGJsijA219EobCWdoNdo3mgJh7
-RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
+
 
 RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
 RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
 RTHK32,tvbus://5KqYBRifjas1kDjSTncngGo4vxnyKkwJnnsHWk6aGwMb8k1SM6EFpRDsGfR7U
 RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 
+凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2
 凤凰中文台,tvbus://6VcWe6ABdTke5PBvWQ9Bg3APSDwsQCJjNwjKYtZrU2kMGWJ1dHETNPPsRCGJL
 
+凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1
 凤凰资讯台,tvbus://6VtmWGXBWsZdttRWaZxjXxxMo3SoTzZNp4U9vBJm8WXKUgXLJfUaPgsUR4qUL
 
+凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3
 凤凰香港台,tvbus://6BJwgLicQwMHssbeiMJNbwSPoySHTb5voME89ofJKoN8gJ9BrdoXxcRUEdXXE
 
@@ -271,6 +282,7 @@ KBS 1,p2p://fccsovh.pvbox.live:18912/5f9f825f0002c29832fd9e8341f66f9c#p2p://fccs
 KBS 2,p2p://fccsovh.pvbox.live:18912/5f9f825f000e347f32fda17138ad09d4#p2p://fccseuro.pvbox.live:18912/5f9f825f000e347f32fda17138ad09d4
 KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 SBS 国际,http://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+TVN,p2p://fccseuro.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606#p2p://fccsovh.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606
 TVN,p2p://fccsovh.pvbox.live:18912/5bdbf3a70003296c1991afcf478c85b7#p2p://fccseuro.pvbox.live:18912/5bdbf3a70003296c1991afcf478c85b7
 韩国 MBC频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 韩国 EBS第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
