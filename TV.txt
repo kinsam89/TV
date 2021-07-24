@@ -182,13 +182,9 @@ J5,tvbus://5abQ59biU9JmSDaVxDMGYqY44R9xq2mpyfMRoiuGuFT7NoXLSkaME7diYrevL
 pearl,p2p://fccseuro.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4
 pearl,tvbus://61V85DyYVcVZFMY2P5NRc8QM5wvHw6ZfvTDUqhL23AN33vNfKH3X9j4DKoU7r
 
-
-Viu TV,https://cdn.hkdtmb.com/hls/99/index.m3u8
+Viu TV,http://198.16.106.62:8278/streams/d/viu1_twn/playlist.m3u8
 Viu TV,http://61.238.6.49:8000/bysid/96
 Viu TV,tvbus://5TRJtBkaYNHuAjqkYALafieT8hqjSGZUxhMh2VMRATqokeyTxKVDrrSWjLQiR
-
-Viu TV6,tvbus://5ioPJnprQrkZFHrGKcQfmb6AwVUTGTbQTvDvD4MqVhx8FuGvVtwsvDCDdkTyZ
-Viu TV6,https://cdn.hkdtmb.com/hls/96/index.m3u8
 
 RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
 RTHK31,p2p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
@@ -217,6 +213,7 @@ RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 
 有線新聞,tvbus://5KXsErRUrgRpRJU4sXpNhdZ3K7EX7Zfd1wcaytmrsTknUQ1Dn4MDHEPYmauQo
 
+有線18台,rtmp://59.124.75.153/sat/hk041
 有線18台,tvbus://5i3Bvmk3f1gLcJee7BoPVyvNdMkkybMWXkvpNYWjiCG6en5r85mZzd77FM8mE
 
 有線財經,tvbus://63fvA6r71HaVvqPntBHZTgkkC3QsCGaNu2YJgcDPQ7rtxTwQzys6ucgQRo4fV
@@ -269,12 +266,16 @@ RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 有线财经,http://live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 日韩,#genre#
-韩国MBC频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-韩国EBS第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-韩国EBS第二频道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-韩国EBS加一频道,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-韩国EBS加二频道,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-韩国EBSE频道,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+KBS 1,p2p://fccsovh.pvbox.live:18912/5f9f825f0002c29832fd9e8341f66f9c#p2p://fccseuro.pvbox.live:18912/5f9f825f0002c29832fd9e8341f66f9c
+KBS 2,p2p://fccsovh.pvbox.live:18912/5f9f825f000e347f32fda17138ad09d4#p2p://fccseuro.pvbox.live:18912/5f9f825f000e347f32fda17138ad09d4
+KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+SBS 国际,http://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+韩国 MBC频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+韩国 EBS第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+韩国 EBS第二频道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+韩国 EBS加一频道,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+韩国 BS加二频道,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+韩国 EBSE频道,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
 CGNTV日本,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w564190259.m3u8
 CGNTV韩国,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist_w1604760015.m3u8
 日本lDX,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
