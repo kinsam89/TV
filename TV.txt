@@ -19,11 +19,11 @@ TVB-热播剧,tvbus://62NNnEntcG5Uev4mzo8NPmozm3g5Lpa6vVrfq7CbNyKQfSLgsy54PQaS6s
 粤语电影（一),p2p://fccseuro.pvbox.live:18912/5d650488000e67a1df9eba9288b40109#p2p://fccsovh.pvbox.live:18912/5d650488000e67a1df9eba9288b40109
 粤语电影（一),tvbus://5XASRw3ac7CzLwLsAMqbESqBHmdXNWixfXTVw7BTiEs14NfUKD5metCuQNXZm
 
+粤语电影（二),http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+粤语电影（二),http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 粤语电影（二),p2p://fccsovh.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160#p2p://fccseuro.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160
 粤语电影（二),tvbus://5gWRwQczZURAdQBNVt6KhaJZWfWYrQ4PzKM3VymWpSEBm9wVsnVHUsHT2d88o
 
-粤语电影（三),http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-粤语电影（三),http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 粤语电影（三),p2p://fccseuro.pvbox.live:18912/5b140a16000257643131fe220522a056#p2p://fccsovh.pvbox.live:18912/5b140a16000257643131fe220522a056
 粤语电影（三),tvbus://6HHVQLYnbh2Bw8tfG3Nt97roei6GDcJgnXczuxZ4iGwmJcbh9EzGJgWviK6AW
 
