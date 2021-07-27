@@ -6,8 +6,8 @@ TVB-经典剧,p2p://fccseuro.pvbox.live:18912/5fbb5a9f00079d3b9fc240962c3b63be
 TVB-经典剧,p2p://fccsovh.pvbox.live:18912/5fbb5a9f00079d3b9fc240962c3b63be
 TVB-经典剧,tvbus://6R9gMZRtc4q7cXDSAunNjupchquEeGcHaGtTVZLpjF3hiohqzQ2VBpyk64wNK
 
-TVB怀旧剧,p2p://fccseuro.pvbox.live:18912/5d65048c0003e9aecc353f52270c8bbe#p2p://fccsovh.pvbox.live:18912/5d65048c0003e9aecc353f52270c8bbe
 TVB怀旧剧,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+TVB怀旧剧,p2p://fccseuro.pvbox.live:18912/5d65048c0003e9aecc353f52270c8bbe#p2p://fccsovh.pvbox.live:18912/5d65048c0003e9aecc353f52270c8bbe
 TVB怀旧剧,tvbus://5rYDDrFr8zHam7aFnp1Dz97B634q5QbLqhrVNCT2p4C56gBsaemHs8eWmRkqJ
 
 TVB-热播剧,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
