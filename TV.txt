@@ -298,8 +298,8 @@ RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 
 日韩,#genre#
 
-KBS 1,http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
 KBS 1,p2p://fccsovh.pvbox.live:18912/5f9f825f0002c29832fd9e8341f66f9c#p2p://fccseuro.pvbox.live:18912/5f9f825f0002c29832fd9e8341f66f9c
+KBS 1,http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
 
 KBS 2,http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
 KBS 2,p2p://fccsovh.pvbox.live:18912/5f9f825f000e347f32fda17138ad09d4#p2p://fccseuro.pvbox.live:18912/5f9f825f000e347f32fda17138ad09d4
