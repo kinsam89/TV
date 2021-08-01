@@ -181,7 +181,7 @@ TVB 8 (测试),https://cn-jsnt-cmcc-live-01.bilivideo.com/live-bvc/689546/live_1
 无线新闻台,p2p://fccsovh.pvbox.live:18912/5ee71d1c0004c66962b2bbef39b16ddb#p2p://fccseuro.pvbox.live:18912/5ee71d1c0004c66962b2bbef39b16ddb
 无线新闻台,tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
 
-TVB 翡翠台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+
 TVB 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 
 TVB 翡翠台,p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188#p2p://fccsovh.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058
