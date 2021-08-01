@@ -181,6 +181,9 @@ TVB 8 (测试),https://cn-jsnt-cmcc-live-01.bilivideo.com/live-bvc/689546/live_1
 无线新闻台,p2p://fccsovh.pvbox.live:18912/5ee71d1c0004c66962b2bbef39b16ddb#p2p://fccseuro.pvbox.live:18912/5ee71d1c0004c66962b2bbef39b16ddb
 无线新闻台,tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
 
+TVB 翡翠台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+TVB 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+
 TVB 翡翠台,p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188#p2p://fccsovh.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058
 TVB 翡翠台,p2p://fccsovh.pvbox.live:18912/5dbeb1c60000e0465bf4890714f16176.ts
 TVB 翡翠台,tvbus://6CYpcABuqf3RrsnjCwViXm3fzZxgeEvjemvxDQf1YHYEBAuJWbsQLesPnnxPt
@@ -349,16 +352,18 @@ WOW!TV,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u
 日本 Ⅰ 宝石GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist_w1860888413_b600000.m3u8
 日本 Ⅰ 宝石GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
 私密_138,#genre#
-
-松视 ﻿1台,p2p://fccseuro.pvbox.live:18912/5c7249be000b8793baaac296ccc9199a
-松视 2台,p2p://fccseuro.pvbox.live:18912/5c7249c2000e510ff069277e6de97521
-
-惊艳台,p2p://fccseuro.pvbox.live:18912/5c7249cf00095b61a6551090eece092b
-
-彩虹E台,p2p://fccseuro.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f
-完美台,p2p://fccseuro.pvbox.live:18912/5c7249b6000641f7f22447de5605ea5f
-粉红台,p2p://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615
-香蕉台,p2p://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe
 Penthouse,http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
 Hot,http://185.236.229.21:9981/play/a03p
 Extasy TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+欧美2,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+欧美3,http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
+欧美4,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+欧美5,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+欧美6,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+欧美7,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+欧美8,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+欧美9,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+欧美10,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+欧美11,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+欧美12,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+ 
