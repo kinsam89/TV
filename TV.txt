@@ -185,6 +185,7 @@ TVB 翡翠台,p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058#h
 TVB 翡翠台,p2p://fccsovh.pvbox.live:18912/5dbeb1c60000e0465bf4890714f16176.ts
 TVB 翡翠台,tvbus://6CYpcABuqf3RrsnjCwViXm3fzZxgeEvjemvxDQf1YHYEBAuJWbsQLesPnnxPt
 
+
 J2,p2p://fccsovh.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b
 J2,p2p://fccseuro.pvbox.live:18912/5d122036000a0661d2e59906fed8fd3c.ts
 J2,tvbus://6VBHJgmSsrmSDg1tvDKeV2mUdN1VCbwc1rAqeeDPdvuwUwrYX6NkWrWmuwRC2
@@ -203,10 +204,10 @@ Viu TV,http://198.16.106.62:8278/streams/d/viu1_twn/playlist.m3u8
 Viu TV,http://61.238.6.49:8000/bysid/96
 Viu TV,tvbus://5TRJtBkaYNHuAjqkYALafieT8hqjSGZUxhMh2VMRATqokeyTxKVDrrSWjLQiR
 
+RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
 RTHK31,p2p://fccseuro.pvbox.live:18912/5badd38d000891c41a1da3bad3c15f41.ts
 RTHK31,p2p://fccsovh.pvbox.live:18912/5badd38d000891c41a1da3bad3c15f41.ts
 RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
-RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
 RTHK31,p2p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 RTHK31,tvbus://6LG8XinCKR8W9K7rNRrPbzCJfuYubAqzE8nrGJsijA219EobCWdoNdo3mgJh7
 
@@ -298,12 +299,10 @@ RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 
 日韩,#genre#
 
-KBS 1,p2p://fccsovh.pvbox.live:18912/5f9f825f0002c29832fd9e8341f66f9c#p2p://fccseuro.pvbox.live:18912/5f9f825f0002c29832fd9e8341f66f9c
-KBS 1,http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
-
-KBS 2,http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
-KBS 2,p2p://fccsovh.pvbox.live:18912/5f9f825f000e347f32fda17138ad09d4#p2p://fccseuro.pvbox.live:18912/5f9f825f000e347f32fda17138ad09d4
-JTBC (测试),http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
+KBS 1(测试),p2p://fccsovh.pvbox.live:18912/5f9f825f0002c29832fd9e8341f66f9c#p2p://fccseuro.pvbox.live:18912/5f9f825f0002c29832fd9e8341f66f9c
+KBS 1(测试),http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
+SBS (测试),http://ye23.win/iptv/sbs5.1.php?id=S01
+YTN (测试),http://ye23.win/iptv/korea2021.php?id=YTN_b
 
 KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 SBS 国际,http://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
