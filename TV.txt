@@ -302,10 +302,12 @@ RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 KBS 1(测试),http://58.77.223.132:9981/stream/channelid/3
 KBS 1(测试),http://58.77.223.132:9981/stream/channelid/99
 KBS 1(测试),p2p://fccsovh.pvbox.live:18912/5f9f825f0002c29832fd9e8341f66f9c#p2p://fccseuro.pvbox.live:18912/5f9f825f0002c29832fd9e8341f66f9c
-KBS 1(测试),http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
-KBS 1(测试),http://121.130.210.101:9981/stream/channelid/637185705
+KBS 1备(测试),http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
+KBS 1备(测试),http://121.130.210.101:9981/stream/channelid/637185705
 
 KBS 2(测试),http://121.130.210.101:9981/stream/channelid/715700199
+KBS 2备(测试),http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
+
 SBS (测试),http://ye23.win/iptv/sbs5.1.php?id=S01
 YTN (测试),http://ye23.win/iptv/korea2021.php?id=YTN_b
 tvN (测试),http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
