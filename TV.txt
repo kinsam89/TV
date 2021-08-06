@@ -31,13 +31,14 @@ K I X·动作频道,p2p://fccseuro.pvbox.live:18912/5d65047e00051ab5970166de4f65
 K I X·动作频道,https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
 中国,#genre#
+
+CCTV1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8
 CCTV1,http://cm.wshls.homecdn.com/live/4387.m3u8
 CCTV1,tvbus://69Mb4nuPDqZ22UV9cSgDHee47LgNh4ZuyxJB3uKzpYx6sx3nbxarNwNGFWeZ7
-CCTV1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8
 
+CCTV2,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
 CCTV2,http://cm.wshls.homecdn.com/live/11ecc.m3u8
 CCTV2,tvbus://6TgMRPM93iM23VTMwx8oQV3G6BrMPtyMj68LZz4VsX2FeDzgDJ6TwDXiPJnUr
-CCTV2,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
 
 CCTV3,http://cm.wshls.homecdn.com/live/11ef4.m3u8
 CCTV3,tvbus://6UNvStCaUueHCHHdrNDWNNhnsyrc7kABPXmmUwj7YJoLCJTXtEFEXnWrnXy6W
@@ -199,8 +200,8 @@ J5,tvbus://5abQ59biU9JmSDaVxDMGYqY44R9xq2mpyfMRoiuGuFT7NoXLSkaME7diYrevL
 pearl,p2p://fccseuro.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4
 pearl,tvbus://61V85DyYVcVZFMY2P5NRc8QM5wvHw6ZfvTDUqhL23AN33vNfKH3X9j4DKoU7r
 
-Viu TV,p2p://fccseuro.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800#p2p://fccsovh.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800
 Viu TV,http://198.16.106.62:8278/streams/d/viu1_twn/playlist.m3u8
+Viu TV,p2p://fccseuro.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800#p2p://fccsovh.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800
 Viu TV,http://61.238.6.49:8000/bysid/96
 Viu TV,tvbus://5TRJtBkaYNHuAjqkYALafieT8hqjSGZUxhMh2VMRATqokeyTxKVDrrSWjLQiR
 
@@ -217,16 +218,16 @@ RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
 RTHK32,tvbus://5KqYBRifjas1kDjSTncngGo4vxnyKkwJnnsHWk6aGwMb8k1SM6EFpRDsGfR7U
 RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 
-凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2
 凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2
 凤凰中文台,tvbus://6VcWe6ABdTke5PBvWQ9Bg3APSDwsQCJjNwjKYtZrU2kMGWJ1dHETNPPsRCGJL
 
-凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1
 凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1
 凤凰资讯台,tvbus://6VtmWGXBWsZdttRWaZxjXxxMo3SoTzZNp4U9vBJm8WXKUgXLJfUaPgsUR4qUL
 
-凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3
 凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3
 凤凰香港台,tvbus://6BJwgLicQwMHssbeiMJNbwSPoySHTb5voME89ofJKoN8gJ9BrdoXxcRUEdXXE
 
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
