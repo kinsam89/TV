@@ -24,7 +24,7 @@ TVB-热播剧,tvbus://62NNnEntcG5Uev4mzo8NPmozm3g5Lpa6vVrfq7CbNyKQfSLgsy54PQaS6s
 粤语电影（二),p2p://fccsovh.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160#p2p://fccseuro.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160
 粤语电影（二),tvbus://5gWRwQczZURAdQBNVt6KhaJZWfWYrQ4PzKM3VymWpSEBm9wVsnVHUsHT2d88o
 
-粤语电影（三),p2p://fccseuro.pvbox.live:18912/5b140a16000257643131fe220522a056#p2p://fccsovh.pvbox.live:18912/5b140a16000257643131fe220522a056
+粤语电影（三),http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
 粤语电影（三),tvbus://6HHVQLYnbh2Bw8tfG3Nt97roei6GDcJgnXczuxZ4iGwmJcbh9EzGJgWviK6AW
 
 K I X·动作频道,p2p://fccseuro.pvbox.live:18912/5d65047e00051ab5970166de4f65e1b1#p2p://fccsovh.pvbox.live:18912/5d65047e00051ab5970166de4f65e1b1
@@ -183,27 +183,17 @@ TVB 8 (测试),https://cn-jsnt-cmcc-live-01.bilivideo.com/live-bvc/689546/live_1
 无线新闻台,tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
 
 
-TVB 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-TVB 翡翠台,p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188#p2p://fccsovh.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058
-TVB 翡翠台,p2p://fccsovh.pvbox.live:18912/5dbeb1c60000e0465bf4890714f16176.ts
+TVB 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8#http://livetv.dnsfor.me:80/channel.18.m3u8#https://cdn.hkdtmb.com/hls/81/index.m3u8#http://61.238.6.49:8000/bysid/1
 
-J2,p2p://fccsovh.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b
-J2,p2p://fccseuro.pvbox.live:18912/5d122036000a0661d2e59906fed8fd3c.ts
-J2,tvbus://6VBHJgmSsrmSDg1tvDKeV2mUdN1VCbwc1rAqeeDPdvuwUwrYX6NkWrWmuwRC2
+J2,http://livetv.dnsfor.me/channel.19.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8
 
 J5,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
-J5,p2p://fccseuro.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts
 J5,http://livetv.dnsfor.me:80/channel.11.m3u8
-J5,p2p://fccsovh.pvbox.live:18912/5b14095400047cf5d3436751842bee62
-J5,tvbus://5abQ59biU9JmSDaVxDMGYqY44R9xq2mpyfMRoiuGuFT7NoXLSkaME7diYrevL
 
-pearl,p2p://fccseuro.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4
-pearl,tvbus://61V85DyYVcVZFMY2P5NRc8QM5wvHw6ZfvTDUqhL23AN33vNfKH3X9j4DKoU7r
+pearl,https://cdn.hkdtmb.com/hls/84/index.m3u8#https://cdn.hkdtmb.com/hls/84b/index.m3u8
 
-Viu TV,http://198.16.106.62:8278/streams/d/viu1_twn/playlist.m3u8
-Viu TV,p2p://fccseuro.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800#p2p://fccsovh.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800
 Viu TV,http://61.238.6.49:8000/bysid/96
-Viu TV,tvbus://5TRJtBkaYNHuAjqkYALafieT8hqjSGZUxhMh2VMRATqokeyTxKVDrrSWjLQiR
+
 
 RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
 RTHK31,p2p://fccseuro.pvbox.live:18912/5badd38d000891c41a1da3bad3c15f41.ts
