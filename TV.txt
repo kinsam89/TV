@@ -24,11 +24,10 @@ TVB-热播剧,tvbus://62NNnEntcG5Uev4mzo8NPmozm3g5Lpa6vVrfq7CbNyKQfSLgsy54PQaS6s
 粤语电影（二),p2p://fccsovh.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160#p2p://fccseuro.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160
 粤语电影（二),tvbus://5gWRwQczZURAdQBNVt6KhaJZWfWYrQ4PzKM3VymWpSEBm9wVsnVHUsHT2d88o
 
-粤语电影（三),http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
+粤语电影（三),http://59.45.88.18:1005/bili.php?id=21515763#http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
 粤语电影（三),tvbus://6HHVQLYnbh2Bw8tfG3Nt97roei6GDcJgnXczuxZ4iGwmJcbh9EzGJgWviK6AW
 
-K I X·动作频道,p2p://fccseuro.pvbox.live:18912/5d65047e00051ab5970166de4f65e1b1#p2p://fccsovh.pvbox.live:18912/5d65047e00051ab5970166de4f65e1b1
-K I X·动作频道,https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+K I X·动作频道,https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
 
 中国,#genre#
 
@@ -183,7 +182,7 @@ TVB 8 (测试),https://cn-jsnt-cmcc-live-01.bilivideo.com/live-bvc/689546/live_1
 无线新闻台,tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
 
 
-TVB 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8#http://livetv.dnsfor.me:80/channel.18.m3u8#https://cdn.hkdtmb.com/hls/81/index.m3u8#http://61.238.6.49:8000/bysid/1
+TVB 翡翠台,http://livetv.dnsfor.me:80/channel.18.m3u8#http://185.207.176.189:8080/channels/tv-81/playlist.m3u8#https://cdn.hkdtmb.com/hls/81/index.m3u8#http://61.238.6.49:8000/bysid/1
 
 J2,http://livetv.dnsfor.me/channel.19.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8
 
@@ -288,19 +287,18 @@ RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 
 日韩,#genre#
 
-KBS 1(测试),http://58.77.223.132:9981/stream/channelid/3
+KBS 1(测试),http://ye23.vip/z7z8/2021/kbs2020.php?id=1#http://58.77.223.132:9981/stream/channelid/3
 KBS 1(测试),http://58.77.223.132:9981/stream/channelid/99
-KBS 1(测试),p2p://fccsovh.pvbox.live:18912/5f9f825f0002c29832fd9e8341f66f9c#p2p://fccseuro.pvbox.live:18912/5f9f825f0002c29832fd9e8341f66f9c
+
 KBS 1备(测试),http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
 KBS 1备(测试),http://121.130.210.101:9981/stream/channelid/637185705
 
-KBS 2(测试),http://121.130.210.101:9981/stream/channelid/715700199
+KBS 2(测试),http://ye23.vip/z7z8/2021/kbs2020.php?id=2#http://121.130.210.101:9981/stream/channelid/715700199
 KBS 2备(测试),http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
 
 SBS (测试),http://ye23.win/iptv/sbs5.1.php?id=S01
 YTN (测试),http://ye23.win/iptv/korea2021.php?id=YTN_b
 tvN (测试),http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-
 
 
 KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
