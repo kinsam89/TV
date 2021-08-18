@@ -24,8 +24,8 @@ TVB-热播剧,tvbus://62NNnEntcG5Uev4mzo8NPmozm3g5Lpa6vVrfq7CbNyKQfSLgsy54PQaS6s
 粤语电影（二),p2p://fccsovh.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160#p2p://fccseuro.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160
 粤语电影（二),tvbus://5gWRwQczZURAdQBNVt6KhaJZWfWYrQ4PzKM3VymWpSEBm9wVsnVHUsHT2d88o
 
-粤语电影（三),http://59.45.88.18:1005/bili.php?id=21515763#http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
-粤语电影（三),tvbus://6HHVQLYnbh2Bw8tfG3Nt97roei6GDcJgnXczuxZ4iGwmJcbh9EzGJgWviK6AW
+粤语电影（三),http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8#http://59.45.88.18:1005/bili.php?id=21515763
+
 
 K I X·动作频道,https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
 
@@ -182,14 +182,14 @@ TVB 8 (测试),https://cn-jsnt-cmcc-live-01.bilivideo.com/live-bvc/689546/live_1
 无线新闻台,tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
 
 
-TVB 翡翠台,http://livetv.dnsfor.me:80/channel.18.m3u8#http://185.207.176.189:8080/channels/tv-81/playlist.m3u8#https://cdn.hkdtmb.com/hls/81/index.m3u8#http://61.238.6.49:8000/bysid/1
+TVB 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8##http://livetv.dnsfor.me:80/channel.18.m3u8#https://cdn.hkdtmb.com/hls/81/index.m3u8#http://61.238.6.49:8000/bysid/1
 
-J2,http://livetv.dnsfor.me/channel.19.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8
+J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8#http://livetv.dnsfor.me/channel.19.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8
 
 J5,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 J5,http://livetv.dnsfor.me:80/channel.11.m3u8
 
-pearl,https://cdn.hkdtmb.com/hls/84/index.m3u8#https://cdn.hkdtmb.com/hls/84b/index.m3u8
+pearl,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8#https://cdn.hkdtmb.com/hls/84/index.m3u8#https://cdn.hkdtmb.com/hls/84b/index.m3u8
 
 Viu TV,http://61.238.6.49:8000/bysid/96
 
