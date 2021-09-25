@@ -204,9 +204,7 @@ RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
 国家地理,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 探索频道,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 
-
 澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
-
 
 台湾,#genre#
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
