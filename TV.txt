@@ -195,16 +195,13 @@ RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
 
 有线新闻,https://api.leonardpark.dev/live/icable/109
 
-有线18台,rtmp://59.124.75.153/sat/hk041
+香港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+香港开电视,https://www.navchina.cf/IPTV/icable.php?id=77
 
 有线财经,https://api.leonardpark.dev/live/icable/108
 
-
-星空体育,rtmp://59.124.75.153/sat/md021
-星空体育,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
-
 国家地理,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-
 探索频道,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 
 
