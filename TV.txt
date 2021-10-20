@@ -11,7 +11,7 @@ TVB-热播剧,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 
 电影（二区),http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 
-电影（三区),http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
+电影（三区),http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 
 K I X·动作频道,https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
@@ -292,9 +292,21 @@ WOW!TV,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u
 日本 Ⅰ 宝石GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist_w1860888413_b600000.m3u8
 日本 Ⅰ 宝石GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
 私密_138,#genre#
-Penthouse,http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
 Hot,http://185.236.229.21:9981/play/a03p
 Extasy TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+XXX_Hustler_HD,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/1
+XXX_Dorcel,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/3
+XXX_Blue_Hustler,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/4
+XXX_Penthouse_Gold,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/5
+XXX_French_Lover,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/6
+XXX_Penthouse_Passion,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/7
+XXX_Barely_Legal,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/8
+XXX_Playboy,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/9
+XXX_Private_HD,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/10
+XXX_Prive_TV,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/11
+XXX_Redlight_HD,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/12
+XXX_Sext6senso,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/14
+
 欧美2,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
 欧美3,http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
 欧美4,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
