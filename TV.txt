@@ -26,7 +26,7 @@ CCTV2,http://117.136.154.98/PLTV/88888888/224/3221225502/index.m3u8
 
 
 
-CCTV3,https://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u
+CCTV3,http://117.148.179.160/PLTV/88888888/224/3221231682/index.m3u8
 
 
 CCTV4,http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
@@ -41,7 +41,7 @@ CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5+,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8,http://107.148.240.185:13164/v/cctv.php?id=2000204502.m3u8,mitv://fccseuro.pvbox.live:18912/5b1409f200034b730f7fdb4819ffdd6c.ts
 
 
-CCTV6,http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
+CCTV6,http://117.148.179.160/PLTV/88888888/224/3221231724/index.m3u8
 
 
 CCTV7,http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
@@ -49,7 +49,7 @@ CCTV7,mitv://fccsovh.pvbox.live:18912/5b1409fa000e431b13d3184e0a673418.ts#http:/
 CCTV7,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
 
 
-CCTV8,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+CCTV8,http://117.148.179.160/PLTV/88888888/224/3221231694/index.m3u8
 
 
 CCTV9,http://39.135.138.58:18890/PLTV/88888910/224/3221225626/index.m3u8
