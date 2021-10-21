@@ -152,7 +152,6 @@ CCTV15,https://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 广东卫视,http://111.12.101.23:6610/PLTV/77777777/224/3221225666/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 
 港澳,#genre#
-华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 
 
 无线新闻台,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
@@ -200,10 +199,7 @@ RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
 
 有线财经,https://api.leonardpark.dev/live/icable/108
 
-国家地理,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-探索频道,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
-
-澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
+澳门资讯,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 
 台湾,#genre#
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
