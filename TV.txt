@@ -188,8 +188,6 @@ RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
 凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3
 
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,tvbus://5rBYFYX33K8FhWNxBWVVFLTm5Q45zYBSaDcELLCQSmsQWksC6NtNsqTkzJPCS
 
 有线新闻,https://api.leonardpark.dev/live/icable/109
 
