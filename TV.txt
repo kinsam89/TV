@@ -121,8 +121,8 @@ CCTV15,https://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 天津卫视,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228818/index.m3u8
 天津卫视,http://117.169.120.160:8080/live/hdtianjinstv/1.m3u8
 
-南方卫视,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226540/1.m3u8
 南方卫视,http://111.12.101.23:6610/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+南方卫视,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226540/1.m3u8
 南方卫视,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-nanfangstv/SD-4000k-576P-nanfangstv
 
 北京卫视,http://cm.wshls.homecdn.com/live/1bd71.m3u8
@@ -152,15 +152,12 @@ CCTV15,https://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 广东卫视,http://111.12.101.23:6610/PLTV/77777777/224/3221225666/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 
 港澳,#genre#
-
-
 无线新闻台,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 无线新闻台,http://livetv.dnsfor.me:80/channel.10.m3u8
 
-
+TVB 翡翠台,http://livetv.dnsfor.me/channel.18.m3u8
 TVB 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 TVB 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
-TVB 翡翠台,http://livetv.dnsfor.me/channel.18.m3u8
 
 J2,http://livetv.dnsfor.me/channel.19.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8#http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 J5,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
