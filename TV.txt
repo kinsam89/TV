@@ -155,6 +155,8 @@ CCTV15,https://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 无线新闻台,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 无线新闻台,http://livetv.dnsfor.me:80/channel.10.m3u8
 
+
+TVB 翡翠台,http://50.7.161.82:8278/streams/d/hualee_pye/playlist.m3u8
 TVB 翡翠台,http://livetv.dnsfor.me/channel.18.m3u8
 TVB 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 TVB 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
@@ -193,7 +195,6 @@ RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
 香港开电视,https://www.navchina.cf/IPTV/icable.php?id=77
 
 有线财经,https://api.leonardpark.dev/live/icable/108
-
 澳门资讯,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 
 台湾,#genre#
@@ -223,7 +224,6 @@ RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
 日韩,#genre#
-
 KBS 1(测试),http://ye23.vip/z7z8/2021/kbs2020.php?id=1#http://58.77.223.132:9981/stream/channelid/3
 KBS 1(测试),http://58.77.223.132:9981/stream/channelid/99
 
@@ -240,7 +240,6 @@ tvN (测试),https://tvn-seezn.pip.cjenm.com/tvn/_definst_/s5/chunklist.m3u8?tok
 
 KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 SBS 国际,http://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
-
 
 韩国 MBC频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 韩国 EBS第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
