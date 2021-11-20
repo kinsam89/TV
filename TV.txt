@@ -121,9 +121,7 @@ CCTV15,https://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 天津卫视,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228818/index.m3u8
 天津卫视,http://117.169.120.160:8080/live/hdtianjinstv/1.m3u8
 
-南方卫视,http://111.12.101.23:6610/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-南方卫视,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226540/1.m3u8
-南方卫视,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-nanfangstv/SD-4000k-576P-nanfangstv
+南方卫视,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1197
 
 北京卫视,http://cm.wshls.homecdn.com/live/1bd71.m3u8
 北京卫视,http://111.12.101.23:6610/PLTV/77777777/224/3221225651/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -155,27 +153,23 @@ CCTV15,https://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 无线新闻台,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 无线新闻台,http://livetv.dnsfor.me:80/channel.10.m3u8
 
+TVB 翡翠台,https://p2.weizan.cn/1646497941/173900819035303690/live.m3u8
 
-TVB 翡翠台,http://50.7.161.82:8278/streams/d/hualee_pye/playlist.m3u8
-TVB 翡翠台,http://livetv.dnsfor.me/channel.18.m3u8
-TVB 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-TVB 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 
-J2,http://livetv.dnsfor.me/channel.19.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8#http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-J5,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
+J2,http://livetv.dnsfor.me/channel.19.m3u8
+
 J5,http://livetv.dnsfor.me:80/channel.11.m3u8
 
 pearl,https://cdn.hkdtmb.com/hls/84/index.m3u8#http://185.207.176.189:8080/channels/tv-84/playlist.m3u8#https://cdn.hkdtmb.com/hls/84b/index.m3u8
 
 Viu TV,https://cdn.hkdtmb.com/hls/99/index.m3u8
-Viu TV,http://61.238.6.49:8000/bysid/96
+
 
 RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
-RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
+
 
 RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
-RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
-RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
+
 
 凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2
@@ -191,8 +185,7 @@ RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
 有线新闻,https://api.leonardpark.dev/live/icable/109
 
 香港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
-香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-香港开电视,https://www.navchina.cf/IPTV/icable.php?id=77
+
 
 有线财经,https://api.leonardpark.dev/live/icable/108
 澳门资讯,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
