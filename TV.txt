@@ -3,7 +3,7 @@
 香港C+蓝光,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 
 
-TVB怀旧剧,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+TVB怀旧剧,http://113.64.147.178:808/hls/35/index.m3u8#http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 TVB-热播剧,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 
@@ -11,7 +11,7 @@ TVB-热播剧,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 
 电影（二区),http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 
-电影（三区),http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+电影（三区),http://113.64.147.178:808/hls/62/index.m3u8#http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 
 K I X·动作频道,https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
@@ -26,7 +26,7 @@ CCTV2,http://117.136.154.98/PLTV/88888888/224/3221225502/index.m3u8
 
 
 
-CCTV3,http://117.148.179.160/PLTV/88888888/224/3221231682/index.m3u8
+CCTV3,http://39.135.34.150:8080/000000001000/1000000001000011218/1.m3u8?xtkg#http://39.135.32.29:6610/000000001000/1000000001000011218/1.m3u8?#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8#http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231682/index.m3u8
 
 
 CCTV4,http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
@@ -41,7 +41,7 @@ CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5+,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8,http://107.148.240.185:13164/v/cctv.php?id=2000204502.m3u8,mitv://fccseuro.pvbox.live:18912/5b1409f200034b730f7fdb4819ffdd6c.ts
 
 
-CCTV6,http://117.148.179.160/PLTV/88888888/224/3221231724/index.m3u8
+CCTV6,http://39.135.34.150:8080/000000001000/1000000001000016466/1.m3u8?xtkg#http://42.81.144.99/live.cache.cmvideo.cn/migu/kailu/cctv6hd265/55/20200407/index.m3u8?&encrypt=1#http://39.135.32.29:6610/000000001000/1000000001000016466/1.m3u8?#http://117.148.179.160/PLTV/88888888/224/3221231724/index.m3u8
 
 
 CCTV7,http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
@@ -49,10 +49,10 @@ CCTV7,mitv://fccsovh.pvbox.live:18912/5b1409fa000e431b13d3184e0a673418.ts#http:/
 CCTV7,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
 
 
-CCTV8,http://117.148.179.160/PLTV/88888888/224/3221231694/index.m3u8
+CCTV8,http://39.135.34.150:8080/000000001000/1000000001000003736/1.m3u8?xtkg#http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv8hd/4000000/mnf.m3u8#http://42.81.144.99/live.cache.cmvideo.cn/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?&encrypt=1#http://117.148.179.160/PLTV/88888888/224/3221231694/index.m3u8
 
 
-CCTV9,http://39.135.138.58:18890/PLTV/88888910/224/3221225626/index.m3u8
+CCTV9,http://39.135.34.150:8080/000000001000/1000000001000014583/1.m3u8?xtkg#http://39.135.135.30/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8#http://42.81.144.99/live.cache.cmvideo.cn/migu/kailu/20200324/cctv9hd/51/index.m3u8?&encrypt=1#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225820/1.m3u8#http://39.135.138.58:18890/PLTV/88888910/224/3221225626/index.m3u8
 CCTV9,http://107.148.240.185:13164/v/cctv.php?id=2000499402.m3u8,http://ivi.bupt.edu.cn/hls/cctv9.m3u8,mitv://fccseuro.pvbox.live:18912/5b140954000be15420c43b0f1250f037.ts
 CCTV9,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
 
@@ -61,7 +61,7 @@ CCTV10,http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8
 CCTV10,http://cm.wshls.homecdn.com/live/11ed8.m3u8
 
 
-CCTV11,http://39.135.138.58:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV11,http://39.135.34.150:8080/000000001000/1000000002000019789/1.m3u8?xtkg#http://39.134.65.162/PLTV/88888888/224/3221225517/index.m3u8#http://42.81.144.99/live.cache.cmvideo.cn/migu/kailu/cctv11hd/57/20200103/index.m3u8?&encrypt=1#http://39.135.138.58:18890/PLTV/88888910/224/3221225628/index.m3u8
 CCTV11,http://107.148.240.185:13164/v/cctv.php?id=2000204102.m3u8,http://107.148.240.185:13164/v/cctv.php?id=2000204102.m3u8,mitv://fccseuro.pvbox.live:18912/5b1409fb00030ef9989926fcd9821783.ts
 CCTV11,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
 
@@ -121,7 +121,7 @@ CCTV15,https://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 天津卫视,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228818/index.m3u8
 天津卫视,http://117.169.120.160:8080/live/hdtianjinstv/1.m3u8
 
-南方卫视,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1197
+南方卫视,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225738/1/index.m3u8?fmt=ts2hls#http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1197
 
 北京卫视,http://cm.wshls.homecdn.com/live/1bd71.m3u8
 北京卫视,http://111.12.101.23:6610/PLTV/77777777/224/3221225651/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -153,7 +153,7 @@ CCTV15,https://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 无线新闻台,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 无线新闻台,http://livetv.dnsfor.me:80/channel.10.m3u8
 
-TVB 翡翠台,http://50.7.161.82:8278/streams/d/hualee_pye/playlist.m3u8
+TVB 翡翠台,http://113.64.147.178:808/hls/36/index.m3u8
 
 
 J2,http://livetv.dnsfor.me/channel.19.m3u8
