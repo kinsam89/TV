@@ -154,8 +154,6 @@ CCTV15,https://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 无线新闻台,http://livetv.dnsfor.me:80/channel.10.m3u8
 
 TVB 翡翠台,http://livetv.dnsfor.me/channel.18.m3u8
-
-
 J2,http://livetv.dnsfor.me/channel.19.m3u8
 
 J5,http://livetv.dnsfor.me:80/channel.11.m3u8
