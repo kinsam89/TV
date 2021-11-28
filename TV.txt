@@ -324,3 +324,5 @@ $c_start爆菊$c_end
 爆菊,mitv://ns2.hellotvvod.com:9906/279032f76ae6465d9f6aff532770787f#mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84#P2p://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84
 TVB J2,mitv://ns2.hellotvvod.com:9906/4b20b6d78e904b779ff16c0b10d6c3e4#P2p://ns2.hellotvvod.com:9906/4b20b6d78e904b779ff16c0b10d6c3e4
 pearl,https://cdn.hkdtmb.com/hls/84/index.m3u8#http://185.207.176.189:8080/channels/tv-84/playlist.m3u8#https://cdn.hkdtmb.com/hls/84b/index.m3u8
+
+
