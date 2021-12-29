@@ -153,12 +153,12 @@ CCTV15,https://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 无线新闻台,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 无线新闻台,http://livetv.dnsfor.me:80/channel.10.m3u8
 
-TVB 翡翠台,http://livetv.dnsfor.me/channel.18.m3u8
-J2,http://livetv.dnsfor.me/channel.19.m3u8
+TVB 翡翠台,http://iptv.tvfix.org/hls/jade.m3u8#http://iptv.tvfix.org/hls/jade2.m3u8#http://185.207.176.189:8080/channels/tv-81/playlist.m3u8#http://iptv.tvfix.org/hls/jadenhk.m3u8#http://iptv.tvfix.org/hls/jadenhk2.m3u8#http://livetv.dnsfor.me/channel.18.m3u8
+J2,http://livetv.dnsfor.me/channel.19.m3u8#http://185.207.176.189:8080/channels/tv-82/playlist.m3u8#http://livetv.dnsfor.me/channel.19.m3u8#http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 
 J5,http://livetv.dnsfor.me:80/channel.11.m3u8
 
-pearl,https://cdn.hkdtmb.com/hls/84/index.m3u8#http://185.207.176.189:8080/channels/tv-84/playlist.m3u8#https://cdn.hkdtmb.com/hls/84b/index.m3u8
+pearl,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8#https://cdn.hkdtmb.com/hls/84/index.m3u8#https://cdn.hkdtmb.com/hls/84b/index.m3u8
 
 Viu TV,https://cdn.hkdtmb.com/hls/99/index.m3u8
 
@@ -169,20 +169,18 @@ RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
 RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 
 
-凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2
+凤凰中文台,http://iptv.tvfix.org/hls/fhzw.m3u8#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#http://ott.js.chinamobile.com/TVOD/3/224/3221228057/index.m3u8
 
 
-凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1
+凤凰资讯台,http://iptv.tvfix.org/hls/fhzx.m3u8#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#https://player.ggiptv.com/v/ifeng.php?id=1
 
-凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3
+
+凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.236.2/ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8#http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P#http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8
 
 
 有线新闻,https://api.leonardpark.dev/live/icable/109
 
-香港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
+香港开电视,http://iptv.tvfix.org/hls/opentv.m3u8#http://livetv.dnsfor.me/channel.9.m3u8#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8#http://media.fantv.hk/m3u8/archive/channel2.m3u8#http://livetv.dnsfor.me:80/channel.9.m3u8#https://cdn.hkdtmb.com/hls/77/index.m3u8
 
 
 有线财经,https://api.leonardpark.dev/live/icable/108
@@ -320,9 +318,5 @@ Extasy TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 大雞巴,https://iwant-sex.com/videos/13365/13365.m3u8
 情色陷阱,https://iwant-sex.com/videos/13495/13495.m3u8
 
-$c_start爆菊$c_end
-爆菊,mitv://ns2.hellotvvod.com:9906/279032f76ae6465d9f6aff532770787f#mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84#P2p://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84
-TVB J2,mitv://ns2.hellotvvod.com:9906/4b20b6d78e904b779ff16c0b10d6c3e4#P2p://ns2.hellotvvod.com:9906/4b20b6d78e904b779ff16c0b10d6c3e4
-pearl,https://cdn.hkdtmb.com/hls/84/index.m3u8#http://185.207.176.189:8080/channels/tv-84/playlist.m3u8#https://cdn.hkdtmb.com/hls/84b/index.m3u8
 
 
