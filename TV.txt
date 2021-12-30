@@ -2,15 +2,15 @@
 香港C+蓝光,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 
 
-TVB-怀旧剧,http://iptv.tvfix.org/hls/tvbxh.m3u8#http://iptv.tvfix.org/hls/tvbxh2.m3u8
+TVB怀旧剧,http://iptv.tvfix.org/hls/tvbxh.m3u8#http://iptv.tvfix.org/hls/tvbxh2.m3u8
 
 TVB-热播剧,http://iptv.tvfix.org/hls/tvbjd.m3u8
 
 电影（一区),https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
-
 电影（二区),http://cn-sdjn3-cu-live-01.bilivideo.com/live-bvc/874778/live_22989278_9714011_1500.m3u8
 
 电影（三区),http://iptv.tvfix.org/hls/mydy.m3u8
+
 
 
 中国,#genre#
