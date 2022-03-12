@@ -172,7 +172,7 @@ CCTV15,http://117.148.179.169/PLTV/88888888/224/3221231693/index.m3u8
 港澳,#genre#
 无线新闻台,http://iptv.tvfix.org/hls/inews.m3u8
 无线新闻台,http://livetv.dnsfor.me:80/channel.10.m3u8
-TVB 翡翠台,http://iptv.tvfix.org/hls/jade.m3u8#http://iptv.tvfix.org/hls/jade2.m3u8
+TVB 翡翠台,http://51.222.193.143:10010/2
 TVB 功夫台,http://iptv.tvfix.org/hls/tvbkf.m3u8
 J2,http://iptv.tvfix.org/hls/j2.m3u8
 J5,http://livetv.dnsfor.me:80/channel.11.m3u8
