@@ -170,7 +170,6 @@ CCTV15,http://117.148.179.169/PLTV/88888888/224/3221231693/index.m3u8
 广东卫视,http://111.12.101.23:6610/PLTV/77777777/224/3221225666/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 
 港澳,#genre#
-无线新闻台,http://iptv.tvfix.org/hls/inews.m3u8
 无线新闻台,http://livetv.dnsfor.me:80/channel.10.m3u8
 TVB 翡翠台,http://51.222.193.143:10010/2
 TVB 功夫台,http://iptv.tvfix.org/hls/tvbkf.m3u8
