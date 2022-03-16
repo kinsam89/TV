@@ -2,7 +2,7 @@
 香港C+蓝光,
 
 
-TVB怀旧剧,
+TVB怀旧剧,p5p://45.92.126.18:19706/60463cd5000f308a087086672166e0af
 
 TVB-热播剧,
 
@@ -183,7 +183,7 @@ Viu TV,http://51.222.193.143:10010/3
 RTHK31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 
 
-RTHK32,
+RTHK32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_5400_av-p.m3u8?sd=10&rebase=on
 
 
 凤凰中文台,http://iptv.tvfix.org/hls/fhzw.m3u8#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#http://ott.js.chinamobile.com/TVOD/3/224/3221228057/index.m3u8
@@ -192,7 +192,7 @@ RTHK32,
 凤凰资讯台,http://iptv.tvfix.org/hls/fhzx.m3u8#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#https://player.ggiptv.com/v/ifeng.php?id=1
 
 
-凤凰香港台,
+凤凰香港台,http://59.44.10.113:9901/tsfile/live/1080_1.m3u8
 
 有线新闻,https://api.leonardpark.dev/live/icable/109
 
