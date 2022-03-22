@@ -1,13 +1,13 @@
 影视专区,#genre#
 
 
-TVB-怀旧剧,http://iptv.tvfix.org/hls/tvbxh_a1.m3u8
+TVB-怀旧剧,http://iptv.tvfix.org/hls/tvbxh_a1
 
 TVB-经典剧,http://iptv.tvfix.org/hls/tvbkf.m3u8
 
 电影（一区),https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
-电影（二区),http://iptv.tvfix.org/hls/tyjd_v.m3u8
-电影（三区),http://iptv.tvfix.org/hls/mydy_v.m3u8
+电影（二区),http://iptv.tvfix.org/hls/tyjd_v
+电影（三区),http://iptv.tvfix.org/hls/mydy_v
 
 
 
