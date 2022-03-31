@@ -1,13 +1,13 @@
 影视专区,#genre#
 
 
-TVB-怀旧剧,
+TVB-怀旧剧,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
 TVB-经典剧,http://iptv.tvfix.org/hls/tvbkf.m3u8
 
 电影（一区),https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
-电影（二区),
-电影（三区),
+电影（二区),http://59.125.101.187:8599/.m3u8
+电影（三区),http://data.3g.yy.com/live/hls/29900720/29900720
 
 
 
@@ -30,11 +30,11 @@ CCTV15,http://iptv.tvfix.org/hls/cctv15hd.m3u8
 
 
 港澳,#genre#
-无线新闻台,http://livetv.dnsfor.me:80/channel.10.m3u8
-TVB 翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
-J2,http://iptv.tvfix.org/hls/j2.m3u8
-J5,http://iptv.tvfix.org/hls/finance.m3u8
-pearl,http://iptv.tvfix.org/hls/pearl.m3u8
+无线新闻台,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8#http://livetv.dnsfor.me:80/channel.10.m3u8
+TVB 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+J5,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+pearl,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 Viu TV,http://iptv.tvfix.org/hls/viutv.m3u8
 RTHK31,http://iptv.tvfix.org/hls/rthk31.m3u8
 RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
