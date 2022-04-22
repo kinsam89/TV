@@ -13,35 +13,53 @@ TVB-经典剧,http://iptv.tvfix.org/hls/tvbkf.m3u8
 
 中国,#genre#
 
-CCTV1,http://iptv.tvfix.org/hls/cctv1hd.m3u8
-CCTV2,http://iptv.tvfix.org/hls/cctv2hd.m3u8
-CCTV3,http://iptv.tvfix.org/hls/cctv3hd.m3u8
-CCTV4,http://iptv.tvfix.org/hls/cctv4hd.m3u8
-CCTV5,http://iptv.tvfix.org/hls/cctv5hd.m3u8
-CCTV6,http://iptv.tvfix.org/hls/cctv6hd.m3u8
-CCTV7,http://iptv.tvfix.org/hls/cctv7hd.m3u8
-CCTV8,http://iptv.tvfix.org/hls/cctv8hd.m3u8
-CCTV9,http://iptv.tvfix.org/hls/cctv9hd.m3u8
-CCTV10,http://iptv.tvfix.org/hls/cctv10hd.m3u8
-CCTV11,http://iptv.tvfix.org/hls/cctv11hd.m3u8
-CCTV12,http://iptv.tvfix.org/hls/cctv12hd.m3u8
-CCTV13,http://iptv.tvfix.org/hls/cctv13hd.m3u8
-CCTV15,http://iptv.tvfix.org/hls/cctv15hd.m3u8
-
+CCTV1,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
+CCTV1,http://115.182.96.25/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8?p=GITV&area=AH_CMCC
+CCTV2,http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
+CCTV2,http://39.135.55.105:6610/PLTV/88888888/224/3221225800/index.m3u8?servicetype=1
+CCTV3,http://111.20.33.93/PLTV/88888893/224/3221226397/index.m3u8
+CCTV3,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV4,http://39.135.55.105:6610/PLTV/88888888/224/3221225802/index.m3u8?servicetype=1$华南
+CCTV4,http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
+CCTV5,http://39.134.65.173/PLTV/88888888/224/3221225818/1.m3u8
+CCTV5,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV6,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
+CCTV6,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+CCTV7,http://39.134.67.99/PLTV/88888888/224/3221225671/index.m3u8
+CCTV7,http://125.40.191.58:9901/tsfile/live/1006_1.m3u8
+CCTV8,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240249_1/playlist.m3u8?CONTENTID=00000110240249_1
+CCTV8,http://117.148.179.160/PLTV/88888888/224/3221231694/index.m3u8
+CCTV9,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV9,http://111.40.196.35:80/wh7f454c46tw311521991_332404369/PLTV/88888888/224/3221225502/index.m3u8?icpid=88888888&RTS=1637809933&from=1&hms_devid=83
+CCTV10,http://39.134.19.228:6410/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV10,http://39.134.65.181/PLTV/88888888/224/3221225677/1.m3u8
+CCTV11,http://39.134.66.4/PLTV/88888888/224/3221225517/index.m3u8
+CCTV11,http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
+CCTV12,http://183.196.25.171:808/hls/12/index.m3u8
+CCTV12,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+CCTV13,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1
+CCTV13,http://183.196.25.171:808/hls/13/index.m3u8
+CCTV15,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
+CCTV15,http://183.196.25.171:808/hls/15/index.m3u8
 
 港澳,#genre#
-无线新闻台,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8#http://livetv.dnsfor.me:80/channel.10.m3u8
+无线新闻台,http://livetv.dnsfor.me:80/channel.10.m3u8#http://111.229.84.232/yulin/tvb.php?id=1
 TVB 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-J5,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+J5,http://ye23.win/iptv/tvb.php?id=2#http://111.229.84.232/yulin/tvb.php?id=2#http://50.7.218.42:8278/tvbcaijing_twn/playlist.m3u8?tid=mbc57c85dcc17&ct=18336&tsum=1423657d67e66f6bb156158f2dd60353#http://kkmix1.f3322.net:825/hls/ch2/s.m3u8#http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 pearl,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-Viu TV,http://iptv.tvfix.org/hls/viutv.m3u8
-RTHK31,http://iptv.tvfix.org/hls/rthk31.m3u8
-RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
-凤凰中文台,http://iptv.tvfix.org/hls/fhzw.m3u8
-凤凰中文台,http://iptv.tvfix.org/hls/fhzw.m3u8#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#http://ott.js.chinamobile.com/TVOD/3/224/3221228057/index.m3u8
-凤凰资讯台,http://iptv.tvfix.org/hls/fhzx.m3u8#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#https://player.ggiptv.com/v/ifeng.php?id=1
-凤凰香港台,http://59.44.10.113:9901/tsfile/live/1080_1.m3u8
+Viu TV,hhttp://1080.youkucdn.live:25461/live/66325546/123/3747.m3u8
+RTHK31,
+RTHK32,http://50.7.218.42:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
+
+凤凰中文台,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#http://39.135.49.209:6610/PLTV/88888888/224/3221227222/1.m3u8?servicetype=1$闽移动FHD
+#http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1$福建三明移动
+
+凤凰资讯台,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://39.135.49.209:6610/PLTV/88888888/224/3221227226/1.m3u8?servicetype=1
+
+凤凰香港台,http://50.7.218.42:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
+凤凰香港台,http://1080.youkucdn.live:25461/live/66325546/123/3735.m3u8
+
 
 有线新闻,https://api.leonardpark.dev/live/icable/109
 
