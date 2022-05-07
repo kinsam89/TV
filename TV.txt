@@ -1,9 +1,10 @@
 影视专区,#genre#
 
 
-TVB-怀旧剧,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+怀旧剧,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
-TVB-经典剧,http://iptv.tvfix.org/hls/tvbkf.m3u8
+经典剧,http://59.125.98.83:8534/playlist.m3u8
+
 
 电影（一区),https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
 电影（二区),http://59.125.101.187:8599/.m3u8
@@ -44,10 +45,10 @@ CCTV15,http://183.196.25.171:808/hls/15/index.m3u8
 
 港澳,#genre#
 无线新闻台,http://livetv.dnsfor.me:80/channel.10.m3u8#http://111.229.84.232/yulin/tvb.php?id=1
-TVB 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+TVB 翡翠台,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8 #http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 J5,http://ye23.win/iptv/tvb.php?id=2#http://111.229.84.232/yulin/tvb.php?id=2#http://50.7.218.42:8278/tvbcaijing_twn/playlist.m3u8?tid=mbc57c85dcc17&ct=18336&tsum=1423657d67e66f6bb156158f2dd60353#http://kkmix1.f3322.net:825/hls/ch2/s.m3u8#http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-pearl,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+pearl,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8#http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 Viu TV,hhttp://1080.youkucdn.live:25461/live/66325546/123/3747.m3u8
 RTHK31,
 RTHK32,http://50.7.218.42:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
@@ -57,7 +58,8 @@ RTHK32,http://50.7.218.42:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=1833
 
 凤凰资讯台,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://39.135.49.209:6610/PLTV/88888888/224/3221227226/1.m3u8?servicetype=1
 
-凤凰香港台,http://50.7.218.42:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
+凤凰香港台,http://59.44.10.113:9901/tsfile/live/1080_1.m3u8
+#http://50.7.218.42:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
 凤凰香港台,http://1080.youkucdn.live:25461/live/66325546/123/3735.m3u8
 
 
