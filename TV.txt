@@ -2,7 +2,7 @@
 
 
 
-经典剧,http://59.125.98.83:8534/playlist.m3u8
+经典剧,http://198.16.64.10:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
 电影,https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
 
 
